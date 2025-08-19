@@ -51,8 +51,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Mono', monospace;
 }
 
-// Sidebar font override
-.sidebar.sticky,
-.sidebar.sticky * {
+.sidebar.sticky :where(p, li, a, h1, h2, h3, h4, h5, h6, small, strong, em, code) {
   font-family: 'Roboto Mono', monospace;
 }
