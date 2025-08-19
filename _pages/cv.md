@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV <a href="https://drive.google.com/file/d/1AUd_6Owgijm0b1mQqBLjq9lYFaBPlt1r/view">here</a>
+My CV can be downloaded <a href="https://drive.google.com/file/d/1AUd_6Owgijm0b1mQqBLjq9lYFaBPlt1r/view">here</a>
 
 <iframe
   src="{{ '/files/Rahman_Ramisa_CV_2025-4.pdf' | relative_url }}"
