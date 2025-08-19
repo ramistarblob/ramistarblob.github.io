@@ -22,8 +22,8 @@ repository               : "ramistarblob/ramistarblob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Ramisa Akther Rahman (রামিসা)"
+  avatar           : "cheese.png"
+  name             : "Ramisa Rahman (রামিসা)"
   pronouns         : # example: "she/her"  
   bio              : "Yale University"
   location         : "New Haven, CT"
