@@ -54,3 +54,23 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar.sticky :where(p, li, a, h1, h2, h3, h4, h5, h6, small, strong, em, code) {
   font-family: 'Roboto Mono', monospace;
 }
+
+/* ===============================
+   Embedly dark-mode override
+   =============================== */
+
+html[data-theme="dark"] blockquote.embedly-card {
+  background-color: #e0e0e0;
+  color: #1a1a1a;
+  border-left: 4px solid #b0b0b0;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+html[data-theme="dark"] blockquote.embedly-card h4 a {
+  color: #1a1a1a;
+}
+
+html[data-theme="dark"] blockquote.embedly-card p {
+  color: #333333;
+}
