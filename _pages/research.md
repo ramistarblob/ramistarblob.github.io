@@ -12,7 +12,7 @@ author_profile: true
 ## RADIOHEAD
 <div class="research-item">
   <img
-    src="{{ base_path }}/images/apjad9f37f4_hr.jpg"
+    src="/images/apjad9f37f4_hr.jpg"
     alt="RADIOHEAD project image"
     class="research-image"
   />
