@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Page in progress
+## Building page in progress :)!
 ## RADIOHEAD
 <div class="research-item">
   <img
