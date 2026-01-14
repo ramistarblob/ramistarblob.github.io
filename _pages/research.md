@@ -9,13 +9,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Page in progress
 ## RADIOHEAD
 <div class="research-item">
   <img
-    src="/images/apjad9f37f4_hr.jpg"
-    alt="RADIOHEAD project image"
-    class="research-image"
-  />
+  src="/images/apjad9f37f4_hr.jpg"
+  alt="RADIOHEAD project image"
+  class="research-image"
+  width="90"
+/>
 
   <blockquote class="embedly-card">
     <h4>
