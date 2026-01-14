@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "☁︎｡⋆｡ Hi there (BUILDING SITE IN PROGRESS) ☾ ﾟ｡⋆!"
+title: "☁︎｡⋆｡ Hi there ☾ ﾟ｡⋆!"
 author_profile: true
 redirect_from: 
   - /about/
